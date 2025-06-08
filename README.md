@@ -1,4 +1,4 @@
-## 프짱이 되고 싶습니다만 ... 🦝
+### 프짱이 되고 싶습니다만 ... 🦝
 
 
 <a href="https://github.com/Paicearea">
@@ -20,5 +20,3 @@
 - [리코일을 도입해보십다](https://paicearea.tistory.com/68)
 - [CRA 지고 Vite가 왔다...!!](https://paicearea.tistory.com/67)
 <!-- BLOG-POST-LIST:END -->
-
----
