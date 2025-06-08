@@ -16,6 +16,11 @@
 ### 📝 기록을 남기는 곳
 
 <!-- BLOG-POST-LIST:START -->
+- [나는 무엇을 잘하는 개발자일까, 5년 뒤엔 어디에 있을까?](https://paicearea.tistory.com/71)
+- [멋사 12기, 프론트 파트장으로 보낸 시간](https://paicearea.tistory.com/70)
+- [30개의 상태가 달린 하나의 컴포넌트를 마주친 적 있으신가요? - 1](https://paicearea.tistory.com/69)
+- [리코일을 도입해보십다](https://paicearea.tistory.com/68)
+- [CRA 지고 Vite가 왔다...!!](https://paicearea.tistory.com/67)
 <!-- BLOG-POST-LIST:END -->
 
 ---
