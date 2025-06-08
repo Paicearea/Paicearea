@@ -2,7 +2,7 @@ name: Update README with Tistory Blog
 
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: "0 6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,4 +15,4 @@ jobs:
       - name: Fetch blog feed and update README
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://paicearea.tistory.com/rss"
+          feed_list: "https://api.rss2json.com/v1/api.json?rss_url=https://paicearea.tistory.com/rss"
